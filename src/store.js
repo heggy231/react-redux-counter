@@ -3,7 +3,7 @@ import { counter } from './reducers';
 
 // default state
 const defaultState = {
-  count: 0
+  count: 42
 };
 
 // create store with 2 params: reducer, default state
