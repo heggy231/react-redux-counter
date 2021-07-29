@@ -1,4 +1,5 @@
 # React Redux simple counter
+![redux counter](./public/redux-counter.png)
 
 
 
