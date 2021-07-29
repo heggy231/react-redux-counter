@@ -1,4 +1,4 @@
-import Output from '../components/Output';
+import Output from '../components/Output'; // dumb react component
 import { connect } from 'react-redux';  // translate Redux `state` into `props` for my React Component
 
 function mapStateToProps(state) {
